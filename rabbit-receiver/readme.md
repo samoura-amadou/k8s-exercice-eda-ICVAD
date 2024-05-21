@@ -14,5 +14,5 @@ QUEUE="tasks"
 ```sh
 RABBITMQ_URL="amqp://localhost:5672"
 QUEUE="tasks"
-INTERVAL="1000""
+INTERVAL="1000"
 ```
