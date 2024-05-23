@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: rabbit-receiver
-        image: your-registry/rabbit-receiver:latest
+        image: almadsam/rabbit-receiver:latest
         env:
         - name: RABBITMQ_HOST
           value: "production-rabbitmqcluster.default.svc.cluster.local"
