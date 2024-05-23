@@ -1,4 +1,4 @@
-# Deploy Rabbitmq in kubernetes
+# Deploy Rabbitmq in kubernetes : SAMOURA Amadou
 
 ## Deployer un cluster rabbitMQ
 
